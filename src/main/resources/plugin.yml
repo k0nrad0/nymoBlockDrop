@@ -1,0 +1,4 @@
+name: nymoBlockDrop
+version: '1.0-SNAPSHOT'
+main: com.konrad0.nymoBlockDrop.NymoBlockDrop
+api-version: '1.21'
