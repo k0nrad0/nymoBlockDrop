@@ -4,6 +4,5 @@ Command: /nymoblockdrop (only for OPs)
 
 First vertical line - changed block
 Lines 3-8 - all drops for this block.
-Can't be more than 5. Drops can't reapeat in one section. 
 
 Drops are updated only on plugin start.
